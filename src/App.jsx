@@ -7,10 +7,10 @@ import Footerb from "./Components/Footerb";
 function App() {
  
   return (
-    <React.Fragment>
+    <>
       <Navb/>
       <Footerb/>
-    </React.Fragment>
+    </>
   )
 }
 
